@@ -1,7 +1,8 @@
-** 🔐 Password Strength Checker **
+<b> 🔐 Password Strength Checker </b>
+
 A simple Python tool that evaluates the strength of a password based on key criteria like length, use of uppercase and lowercase letters, numbers, and special characters. Ideal for basic security awareness and personal use.
 
-** Installation **
+<b> Installation </b>
 
 1. Activate Virtual Environment
    - python -m venv venv
